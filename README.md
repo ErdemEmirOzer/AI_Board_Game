@@ -1,2 +1,3 @@
-# AI_Board_Game
+# AI_Board_Game with MinMax and alpha-beta pruning
+
  
